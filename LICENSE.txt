@@ -1,9 +1,6 @@
 # LICENSE
 
-El archivo LICENSE normalmente contiene el texto completo de la licencia.  
-Aquí te dejo el encabezado inicial (el resto es el texto estándar).
 
-```text
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
