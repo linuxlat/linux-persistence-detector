@@ -34,7 +34,9 @@ Tested on:
 
 ## Usage
 
-Run as root:
+git clone https://github.com/linuxlat/linux-persistence-detector.git
+cd linux-persistence-detector
+chmod +x linux-persistence-detector.sh
 
 ```bash
 sudo ./linux-persistence-detector.sh
