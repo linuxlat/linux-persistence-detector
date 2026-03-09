@@ -3,6 +3,13 @@
 Lightweight Linux incident-response tool designed to detect common persistence
 mechanisms used after system compromise.
 
+![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+A simple **Bash script** to help system administrators and security enthusiasts detect persistence mechanisms, suspicious processes, and possible compromises on Linux systems.
+
+> Note: This script **does not remove threats**, it only detects potential indicators of compromise.
+
+
 Project by Linux Audit Team  
 https://linux.lat
 
