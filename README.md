@@ -35,7 +35,9 @@ Tested on:
 ## Usage
 
 git clone https://github.com/linuxlat/linux-persistence-detector.git
+
 cd linux-persistence-detector
+
 chmod +x linux-persistence-detector.sh
 
 ```bash
