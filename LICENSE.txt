@@ -1,0 +1,17 @@
+# LICENSE
+
+El archivo LICENSE normalmente contiene el texto completo de la licencia.  
+Aquí te dejo el encabezado inicial (el resto es el texto estándar).
+
+```text
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2026 Linux Audit Team
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY.
